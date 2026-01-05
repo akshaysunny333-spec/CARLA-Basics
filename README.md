@@ -1,7 +1,7 @@
 # CARLA Python API – Basics
 
 This repository contains simple Python scripts using the **CARLA Simulator Python API**.  
-The scripts focus on **vehicle spawning and basic sensor usage**, which are fundamental concepts for ADAS and autonomous driving simulation.
+The scripts focus on **vehicle spawning and basic sensor usage**, which are fundamental concepts for autonomous driving simulation.
 
 ## Files
 
